@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/react-konva-draw-line/static/js/main.c264585b.js",
+    "static/js/787.bd0b00c6.chunk.js": "/react-konva-draw-line/static/js/787.bd0b00c6.chunk.js",
+    "index.html": "/react-konva-draw-line/index.html",
+    "main.c264585b.js.map": "/react-konva-draw-line/static/js/main.c264585b.js.map",
+    "787.bd0b00c6.chunk.js.map": "/react-konva-draw-line/static/js/787.bd0b00c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c264585b.js"
+  ]
+}
